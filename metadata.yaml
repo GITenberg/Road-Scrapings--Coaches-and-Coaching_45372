@@ -1,0 +1,26 @@
+_repo: Road-Scrapings--Coaches-and-Coaching_45372
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45372-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Haworth, M. E. (Martin E.)
+    alias: Haworth, Martin E.
+    gutenberg_agent_id: '43246'
+    url: http://www.gutenberg.org/2009/agents/43246
+description: ''
+gutenberg_issued: '2014-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45372'
+  lccn: '12020889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coaching (Transportation)'
+- !lcc 'SF'
+title: 'Road Scrapings: Coaches and Coaching'
+url: http://www.gutenberg.org/ebooks/45372
